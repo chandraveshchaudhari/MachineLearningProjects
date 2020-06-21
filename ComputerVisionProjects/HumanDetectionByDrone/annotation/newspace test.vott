@@ -1,0 +1,57 @@
+{
+    "name": "newspace test",
+    "securityToken": "newspace test Token",
+    "sourceConnection": {
+        "name": "filepathnewspace",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNDRlNTM4NzMyMmQxODA4MDY1NmI4YTNhNzJkOGVhYTZkNWMxZmQzNjY5Yzk4MzBlYTg5ZWQ4MDFhOTQzZDI1YzkzNzQ5NWQyOWQzODcwYTYzZTE5ZjRiZjQ4NmYyZTgwOWNhYzA0NjRkZDk4MWViOGNmMTgzMzk2ZTc1MGZmOTEyYmQ3YjlmZGQxNDA2NTUwZTA5ZWMxYjExODY1MTljMiIsIml2IjoiNTQxNzg1MmFjYzc3YzBiNjQ3ZjExNmVjYjVmYTFiMTI2YWJiYTlmNWIzMGNhMTkwIn0="
+        },
+        "id": "uRZ289EYc"
+    },
+    "targetConnection": {
+        "name": "filepathnewspace",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiODk4Y2YzOTgxYWMzNmZlMTQ4N2Q5MWFjNTdjMWRjZjMzMTIzN2E2MjA1MWIyNjQ1YzNmOWNiMWZkY2VlNTQxZjM0MzhlNDY4ZmM3ZjE1MzBiMDQzMTk2NDJhNDUwYjZjZDQ1OWIzMzc1Y2NiOTNlMzI4MWRhZWFmNTdhMzgwMjViOTcwMDZlNGVlYTU5NDhiZGExMmI5MWRlMzExYWNjMiIsIml2IjoiMmIzNzAzMjMzYjQ2ZDk2NzQ0ZjM2OTQwY2M3NTE3ZDU4Zjk2OGIxZDRkY2QwMGRiIn0="
+        },
+        "id": "uRZ289EYc"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Person",
+            "color": "#5db300"
+        }
+    ],
+    "id": "-4RsAYJiz",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzJkODljNGFlMWU1YmFhYTkxNDBmZjcyNTY1ZTkwOWNjMTVlOWU4NTFjODAzYzgwOGYyMzQ0Nzk1MjQ1OGIxYmEyMTRjMTYwN2RkY2I4NjI1ZTY2YTkwNTg0ODNjNjFkIiwiaXYiOiJjOGE1MGNkMjZjMTljMWYzY2YwMzJjMWJiNmU5OTRiNDk3MGQzNjdlNjg4Mjc5MGQifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "899439fed4dbdd59b4630b52d90c03da",
+    "assets": {
+        "899439fed4dbdd59b4630b52d90c03da": {
+            "format": "jpg",
+            "id": "899439fed4dbdd59b4630b52d90c03da",
+            "name": "TopDownHumanDetection_4032x3024.jpg",
+            "path": "file:/home/chaudharyubuntu/Desktop/NewSpaceBanglore/annotation/TopDownHumanDetection_4032x3024.jpg",
+            "size": {
+                "width": 4032,
+                "height": 3024
+            },
+            "state": 1,
+            "type": 1
+        }
+    }
+}

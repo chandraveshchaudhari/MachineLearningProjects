@@ -1,0 +1,392 @@
+AUT @)HAUS
+
+VEHICLE BODY REPAIR SPECIALISTS
+61 Aintree Road, Perivale, Greenford, Middlesex, UB6 7LA
+Tel : 020 8810 9393 Fax: 020 8810 9333
+
+Estimate Print Printed on 16 October 2019 by GENERAL
+Job Number 18160 Registration KE19OXL
+Source System AUDAX Engineer
+Pool Number 0 Estimator PT 2
+Claims Ref. Make MERCEDES-BENZ
+Estimate ID AUK08346 Model A 180
+Contact Details Trim
+VIRTUO Chassis No.
+Engine No.
+Vin No. WDD1770842V037972
+Radio Code
+Mileage 5,366
+
+Creation Date 16 October 2019
+Vehicle Colour GREY
+Work Provider UNITED REPAIR SOLUTIONS LIMITEL
+
+Strip & Refit Qtv Unit Ext MET Panel Paint Allow Total
+Price Price
+R +R BATTERY 1 - - 0.70 - - - 0.70
+R +R FUEL FLAP 1 - - 0.10 - - - 0.10
+R +R REAR BUMPER 1 - - 1.00 - - - 1.00
+R +R PARCEL SHELF 1 - - 0.10 - - - 0.10
+R +R LEFT HEADLAMP 1 - - 0.20 - - - 0.20
+R +R TAILGATE SEAL 1 - - 0.30 - - - 0.30
+R +R LEFT SILL TRIM 1 - - 0.90 - - - 0.90
+R +R LEFT TAIL LAMP 1 - - 0.80 ~ - - 0.80
+R +RL/DRIP MOULDING 1 - - 0.30 - - - 0.30
+R +R FRONT BUMPER CPL 1 - - 1.00 - - - 1.00
+R +R REAR SEAT CUSHION 1 - - 0.30 - - - 0.30
+R+RL/REAR VENT GRILLE 1 - - 0.10 - - - 0.10
+R +R LEFT REAR SIDE TRIM 1 - - 0.30 - - - 0.30
+R+RL/OUTER MIRROR HOUSING 1 - - 0.30 - - - 0.30
+REMOVE&REFIT 2 MAN ALLOWANCE 1 - - 0.40 - - - 0.40
+R +R LEFT REAR SEAT BACK REST 1 - - 0.30 - - - 0.30
+R + RL/F WHEELHOUSE LINER FRONT 1 - - 0.30 ~ - - 0.30
+R +R LEFT REAR WHEELHOUSE SHELL 1 - - 0.50 - - - 0.50
+R +R LEFT REAR DOOR EDGE PROTECTION 1 - - 0.30 - - - 0.30
+R +R LEFT FRONT DOOR EDGE PROTECTION 1 - - 0.30 - - - 0.30
+Repair 
+Qiv Unit Ext MET Panel Paint Allow Total Price Price
+REPAIR L/MIRROR BASE 1 - - - 1.50 - - 1.50
+REPAIR L/R SIDE PANEL 1 - - - 8.00 - - 8.00
+REPAIR L/DOOR MIRROR HSG 1 - - - 0.50 - - 0.50
+REPAIR L/SILL PANEL COVER 1 - - - 0.30 - - 0.30
+REPAIR L/R OUTER WHEELHOUSE 1 - - - 2.00 - - 2.00
+REPAIR/APPLY FILLER ON PLAST/METAL PARTS 1 - - - 0.20 - - 0.20
+Paint Qtv Unit Ext MET Panel Paint Allow Total
+Price Price
+DE NIB SURFACE PAINT 1 - - - - 0.50 - 0.50
+OF FITTED BODY PARTS 1 - - - - - - MASK GLASS SURFACE PAINT 1 - - - - 0.50 - 0.50
+DOOR HINGES SURFACE PAINT 1 - - - ~ 0.40 - 0.40
+PRIME PLASTIC/METAL PARTS 1 - - - - 0.30 - 0.30
+L/DOOR MIRROR HSG PAINTING 1 - - - ~ 0.30 - 0.30
+L/F WING PAINTING STAGE II 1 - - - - 0.60 - 0.60
+Estimate.rpt(09/04/201 5) 1 of 3
+
+VAT Registration No 578 613406 Registered In England No 2507770AUT @)HAUS
+
+VEHICLE BODY REPAIR SPECIALISTS
+61 Aintree Road, Perivale, Greenford, Middlesex, UB6 7LA
+Tel : 020 8810 9393
+
+Estimate Print
+Job Number 18160
+
+Paint
+
+L/R DOOR PAINTING STAGE I-M
+
+L/SILL PANEL COVER PAINTING
+
+L/F DOOR OUT HANDLE PAINTING
+
+L/R DOOR OUT HANDLE PAINTING
+
+R/F DOOR HANDLE CVR PAINTING
+WITH FRONT SURFACE BELOW DOOR
+APPLY FILLER L/SILL (ADD/WORK)
+APPLY PRIMER L/SILL (ADD/WORK)
+L/SILL PANEL PAINTING STAGE II
+
+L/R SIDE PANEL PAINTING STAGE Ill
+
+LEFT FRONT DOOR PAINTING STAGE I-M
+APPLY FILLER PASTE L/SILL (ADD/WORK)
+L/R OUTER WHEELHOUSEPAINTING STAGE I-J
+
+Qtv
+
+PREPARATION WORK FOR TWO COAT PAINTING
+APPLY FILLER PASTE L/MIRROR HOUSING ADD
+APPLY SMOOTHG FILLER ON PLAST/MET PARTS
+APPLY FILLER L/MIRROR HOUSING (ADD/WORK)
+APPLY PRIMER L/MIRROR HOUSING (ADD/WORK)
+
+Replace
+
+LABOUR
+
+RENEW L/R UPPER DOOR HINGE
+RENEW L/F DOOR AND CONVERT PARTS
+RENEW L/R DOOR AND CONVERT PARTS
+PARTS
+
+L/NUT M8
+
+L/NUT M8
+
+L/R DOOR
+
+ZINC PRIMER
+
+LEFT NUT M 6
+
+SOUND PAD X1
+
+SOUND PAD X1
+
+L/F DOOR SEAL
+
+L/HINGE SCREW
+
+L/R DOOR SEAL
+
+FILLER PER HOUR
+
+LEFT FRONT DOOR
+
+L/R LOWER DOOR HINGE
+
+L/R UPPER DOOR HINGE
+
+SUNDRY PARTS (@ 2.5%)
+
+CORROSION PROTECTION MATERIALS
+
+Specialist
+SYSTEM RESET
+Other
+
+LABOUR
+
+CHECK WASH
+CHECK ROAD TEST
+ADJUST HEADLAMPS
+
+Estimate.rpt(09/04/201 5)
+
+_— i le se ss ss ss ss ss sl |
+
+Qtv
+
+Part Number
+005 990 2050
+005 990 2050
+177 730 1300
+Renew
+NOOO000 00867C
+Renew
+
+Renew
+
+204 727 1187
+000 990 3208
+204 727 1187
+Renew
+
+177 720 0700
+177 730 1100
+177 730 0102
+
+Fax: 020 8810 9333
+
+Printed on 16 October 2019 by GENERAL
+
+Registration
+
+Unit
+Price
+
+Unit
+Price
+
+£2.40
+£2.40
+£506.00
+£8.00
+£0.80
+£12.00
+£12.00
+£84.50
+£3.70
+£84.50
+£12.00
+£442.00
+£29 30
+£29 30
+£30.72
+£36.00
+
+Unit
+
+Price
+£75.00
+
+Unit
+Price
+
+Ext
+Price
+
+Ext
+Price
+
+£2.40
+£2.40
+£506.00
+£8.00
+£0.80
+£12.00
+£12.00
+£84.50
+£3.70
+£84.50
+£12.00
+£442.00
+£29 30
+£29 30
+£30.72
+£36.00
+
+Ext
+
+Price
+£75.00
+
+Ext
+Price
+
+MET
+
+MET
+
+0.20
+1.52
+1.52
+
+MET
+
+MET
+
+0.25
+0.25
+0.15
+
+KET9OXL
+
+Panel
+
+Panel
+
+0.30
+2.28
+2.28
+
+Panel
+
+Panel
+
+0.25
+0.25
+0.15
+
+VAT Registration No 578 613406 Registered In England No 2507770
+
+Paint
+
+1.30
+0.50
+0.10
+0.10
+0.10
+0.10
+0.10
+0.70
+1.90
+1.40
+0.30
+0.30
+1.40
+0.10
+0.30
+0.10
+0.10
+
+Paint
+
+Paint
+
+Paint
+
+Allow
+
+Allow
+
+Allow
+
+Allow
+
+Total
+
+1.30
+0.50
+0.10
+0.10
+0.10
+
+0.10
+0.10
+0.70
+1.90
+1.40
+0.30
+0.30
+1.40
+0.10
+0.30
+0.10
+0.10
+
+Total
+
+0.50
+3.80
+3.80
+
+Total
+
+Total
+
+0.50
+0.50
+0.30
+
+2 of 3AUT @)HAUS
+
+VEHICLE BODY REPAIR SPECIALISTS
+61 Aintree Road, Perivale, Greenford, Middlesex, UB6 7LA
+Tel : 020 8810 9393 Fax: 020 8810 9333
+
+Estimate Print Printed on 16 October 2019 by GENERAL
+
+Job Number 18160 Registration KE19OXL
+Other Qtiv Unit Ext MET Panel Paint Allow Total
+Price Price
+LABOUR
+CHECK QUALITY CONTROL ] 0.25 0.25 - - 0.50
+Corrosion Prote SEAM SEALER ] 0.20 0.20 - - 0.40
+IMPORT ROUNDING FDJUSTMENTS ] - - - - Corrosion Prote ANTI CORROSION ] 0.40 0.40 - - 0.80
+AND ALL ATTACHED PARTS ASSEMBLE ] - - AND ALL ATTACHED PARTS ASSEMBLE ]
+INCLUDES: DOOR TRIM REMOVE AND REFIT ]
+INCLUDES: DOOR TRIM REMOVE AND REFIT ]
+MATERIALS
+PAINT/MATERIALS ] £811.93 £811.93
+OTHER
+EPA ] £10.00 £10.00
+CAR CARE KIT ] £5.00 £5.00
+METHODS RESEARCH ] £15.00 £15.00
+Total Times For Job 13.24 18.86 11.50 0.00 43.60
+Estimate Summary Gross Discount Net
+LABOUR ( 43.60 Hrs ) 1,308.00 0.00 1,308.00
+MATERIALS 811.93 0.00 811.93
+OTHER 30.00 0.00 30.00
+PARTS 1,295.62 0.00 1,295.62
+SPECIALIST 75.00 0.00 75.00
+TOTALS 0.00 £3,520.55 Plus VAT
+
+Estimate Notes
+
+All prices quoted are subject to VAT at the current rate. The above prices are valid for 3 Months. Whilst every care
+has been taken inthe production of this estimate, any further damage found on stripping the vehicle will be
+estimated for separately.
+
+Estimate.rpt(09/04/201 5) 3 of 3
+VAT Registration No 578 613406 Registered In England No 2507770

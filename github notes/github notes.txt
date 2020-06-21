@@ -1,0 +1,39 @@
+github notes
+
+ls                       :files in local directory 
+$ cd C:/Users/ernag/Desktop/github/MachineLearningProject    :its for changing the directory
+                                                              To navigate into the root directory, use "cd /"
+
+                                                             To navigate to your home directory, use "cd" or "cd ~"
+
+                                                              To navigate up one directory level, use "cd .."
+
+                                                             To navigate to the previous directory (or back), use "cd -"    
+
+
+git clone            :if you don't have files of origin(cloud github)
+                    it will copy the repository to the working folder 
+                   example: $ git clone git@github.com:chandraveshchaudhari/MachineLearningProject.git
+
+git status            :show if there change in origin or master(laptop github)
+                      show modified files in working directory, staged for your next commit
+
+git pull              :fetch and merge any commits from the tracking remote branch
+
+git push              :Transmit local branch commits to the remote repository branch
+
+git add -A             :stages all changes
+
+git add .              :stages new files and modifications, without deletions
+
+git add -u            :stages modifications and deletions, without new files
+
+git log              :show the commit history for the currently active branch
+
+$ git reset --hard 78508233846dba24875ce9a50dbd14dcd23d17ed            :changes the files to this position of log
+
+$ git add Object\ detection\ using\ ORB/                              :git add [file] add a file as it looks now to your next commit (stage)
+
+$ git commit -m 'comment'               :git commit -m “[descriptive message]” commit your staged content as a new commit snapshot
+
+

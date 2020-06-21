@@ -1,0 +1,84 @@
+[
+    {
+        "ratings": {},
+        "reviews": [],
+        "url": "http://www.amazon.com/dp/b07qjysdrx",
+        "name": "",
+        "price": ""
+    },
+    {
+        "ratings": {},
+        "reviews": [],
+        "url": "http://www.amazon.com/dp/ AC5CB8040",
+        "name": "",
+        "price": ""
+    },
+    {
+        "ratings": {
+            "\n            5 star\n          ": "\n          ",
+            "\n            4 star\n          ": "\n          ",
+            "\n            1 star\n          ": "\n          "
+        },
+        "reviews": [
+            {
+                "review_comment_count": "",
+                "review_text": "I gave it a try even after I saw the review about its crashing computer because I thought maybe they had updated the driver since. That and I prefer the compact version. NOPE, they have NOT. The screen would froze. It requires computer reboot before it's operational again. When I got the blue screen, I knew it's time to return the product. Right now, I'm waiting for Amazon to tell me why I'm being charged \"Return Shipping Fee Refund Deduction: ($14.35)\" for return a defective unit. Wish me luck.",
+                "review_posted_date": "29 Mar 2017",
+                "review_header": "Freezes screen and gives blue of death.",
+                "review_rating": "1.0 ",
+                "review_author": "iSpendMoney33713"
+            },
+            {
+                "review_comment_count": "",
+                "review_text": "This was exactly what I needed! No more lost connections!",
+                "review_posted_date": "09 Apr 2018",
+                "review_header": "Five Stars",
+                "review_rating": "5.0 ",
+                "review_author": "Jennifer"
+            },
+            {
+                "review_comment_count": "",
+                "review_text": "Easy install works great on win 10system",
+                "review_posted_date": "26 Jul 2017",
+                "review_header": "Four Stars",
+                "review_rating": "4.0 ",
+                "review_author": "Bill Marshall"
+            },
+            {
+                "review_comment_count": "",
+                "review_text": "Crap!! This thing fried the boot files on my computer and now I can't even get to a point where I can do a factory reset.",
+                "review_posted_date": "06 Dec 2015",
+                "review_header": "Garbage, don't waste your time.",
+                "review_rating": "1.0 ",
+                "review_author": "Bryan Decker"
+            },
+            {
+                "review_comment_count": "",
+                "review_text": "If you have a free VGA input on your monitor, and a laptop that doesn't have a VGA output, this device bridges the gap between them, and allows you to use your monitor with your laptop. I connected mine with Windows 8.1 to a 1920 x 1080 monitor. You have the usual screen options, you can mirror the screen, extend the displays, or use the external or internal monitor as the only one. With Windows 8.1 you can quickly get to this menu through the Charms, then \"Project\" (verb). The software needed lives on the actual StarTech cable. When you first connect it to your PC, it recognizes it as a USB drive, around 8MB occupied by the EXE file that has the software. Depending on how your Auto Play settings (default or otherwise) are setup, you may have to manually run this file. This installs the necessary software and then requests a reboot to complete the installation. Once rebooted, you can go to the Windows menus and customize it. If your laptop is 1366 x 768, you will only get 1366 x 768 on your external monitor if you mirror. If you select Extend or Second Display Only, you will get the full resolution of the screen (1920 x 1080 in my case). The maximum it can support is 1920 x 1200 but I don't have that resolution to test it. It comes in a cardboard box, with the device and a postcard size Quick Install Guide with small print.",
+                "review_posted_date": "27 Oct 2016",
+                "review_header": "Good way to bridge the gap between a free Monitor VGA input and a Laptop without VGA output",
+                "review_rating": "4.0 ",
+                "review_author": "bsg2004"
+            },
+            {
+                "review_comment_count": "",
+                "review_text": "It's a possible vision of gadgets to come - either around USB or Thunderbolt or its successors. Instead of shipping a CD/DVD install disk, the software is integrated into the device. This could become a new design pattern in which versioning and manufacturing for software-enabled devices incorporate the drivers onboard. So, a neat idea. The driver in installed on this device was auto-detected on one of my HP HPE-480t Windows 7 desktops. It will prompt you for installation activities. But it was not auto-detected on my HP Spectre running Windows 10 Pro. (I have seen USB device related issues with Windows 10 as of this post, so it's hard to know where to point fingers). In this case, you'll see the device in the Printers and Devices section, but it will not show as a removable drive like a USB storage stick. You can try the Windows device troubleshooter (Windows knows the driver is missing or bad) and tell it to download a driver, but that didn't work for me even after a reboot. Solution: Go to the Startech website and unzip the driver. There's a setup.exe for you to run, a la early 90's. That worked. Yes, USB is a CPU cycle-stealing protocol -- yes, I was all in for Firewire. So an older machine can be a problem, and you need a USB3.x port. Using a hub might be a problem; though it worked on the Win7 desktop, I didn't try it on the laptop as that would have confused matters. Warranty is 2 years. Make sure you have an antivirus scanner active to check the driver when it's installed. Since the monitor you use will have varying resolution, you will probably have more adjusting to do after it's installed, or just accept some black space around the image. Disclaimer from the manufacturer: \"This USB video adapter uses a Fresco family chipset. If you\u2019re connecting this device to a computer along with additional USB video adapters or docking stations, please avoid using devices with a DisplayLink or Trigger family chipset.\" I am glad to have this in my laptop toolbox, and for some people it will save one of the possible needs for a more costly docking station. Once installed, the main issue for laptop use is to see if you're willing to carry along a VGA cable to pair with a monitor. (It's increasingly an HDMI world out there, so watch the shifting standards).",
+                "review_posted_date": "01 Oct 2016",
+                "review_header": "Don't Need no Dual-Monitor Docking Station - Get This Working Before the Standards Change Again",
+                "review_rating": "4.0 ",
+                "review_author": "Knowlengr"
+            },
+            {
+                "review_comment_count": "",
+                "review_text": "This adapter is a great way to turn a laptop (or desktop with only one monitor output) into a dual monitor setup. I have a desktop with integrated graphics (and hence only one monitor output) and this little device let me add a second monitor. Installation is very easy since this has onboard drivers. You simple plug this into your USB port and install the built in drivers. Once you reboot your computer you can use the windows settings to add the second monitor. Keep in mind that this does require USB 3.0 or else there will be lag. The price seems a bit on the high side until you consider that most low end graphics cards cost as much as this and don\u2019t provide the portability. Considering the ease of use and functionality this is a 5 star product.",
+                "review_posted_date": "03 Feb 2018",
+                "review_header": "Very Easy Way To Add Dual Monitors To A System Without A Graphics Card",
+                "review_rating": "5.0 ",
+                "review_author": "FirePepper Red"
+            }
+        ],
+        "url": "http://www.amazon.com/dp/B00U8KSIOM",
+        "name": "StarTech.com USB 3.0 to VGA Display Adapter 1920x1200, On-Board Driver Installation, Video Converter with External Graphics Card - Windows (USB32VGAV)",
+        "price": "$40.78"
+    }
+]

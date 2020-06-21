@@ -1,0 +1,60 @@
+models and architecture	
+
+models
+
+	mask r-cnn keras and tensorflow
+		The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
+
+		https://github.com/matterport/Mask_RCNN
+
+		https://medium.com/@jonathan_hui/image-segmentation-with-mask-r-cnn-ebe6d793272
+
+		https://github.com/fizyr/keras-maskrcnn/blob/master/examples/ResNet50MaskRCNN.ipynb
+
+	yolo v3
+		https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b
+
+    faster rcnn
+        https://towardsdatascience.com/faster-rcnn-object-detection-f865e5ed7fc4
+
+    Tensorflow Object Detection API
+    	https://github.com/tensorflow/models/tree/master/research/object_detection
+    	 other google models: 
+    	 https://github.com/tensorflow/models
+
+    mxnet
+    	https://gluon-cv.mxnet.io/
+
+
+
+	ssd
+	    https://github.com/pierluigiferrari/ssd_keras
+	    SSD: Single Shot MultiBox Detector
+
+	    https://github.com/qfgaohao/pytorch-ssd
+
+	    https://iq.opengenus.org/single-shot-detection-ssd-algorithm/
+
+
+
+
+architecture 
+    resnet
+          ttps://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
+     
+     	 https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+
+    	 https://towardsdatascience.com/an-intuitive-guide-to-deep-network-architectures-65fdc477db41
+
+    	 https://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
+ 	retinanet
+ 		https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4
+
+ 		https://github.com/fizyr/keras-retinanet
+
+
+extras:
+		https://github.com/pierluigiferrari/data_generator_object_detection_2d
+
+
+
