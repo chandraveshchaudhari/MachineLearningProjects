@@ -1,0 +1,36 @@
+Kent Johnson, Kumar Gourav, Gaurav, Dwijen Rudrapal & Sanjib Debnath (2017) OCR for devanagari numerals using zonal histogram of angle, Journal of Statistics and Management Systems, 20:4, 519-534, DOI: 10.1080/09720510.2017.1395172
+An OCR system for the Unified Northern Alphabet (2019) Niko Partanen, Michael Rießler
+Andreas Humpe & Peter Macmillan (2009) Can macroeconomic variables explain long-term stock market movements? A comparison of the US and Japan, Applied Financial Economics, 19:2, 111-119, DOI: 10.1080/09603100701748956 
+CHANDRASHEKAR, R., Sakthivel, P., Sampath, T., & CHITTEDI, K. R. (2018). Macroeconomic variables and stock prices in emerging economies: A panel analysis. Theoretical & Applied Economics, 25(3).
+Pramod Kumar, N. A. I. K., & Puja, P. (2012). The impact of macroeconomic fundamentals on stock prices revisited: An evidence from Indian data.
+Mulenga, M. J., & Bhatia, M. (2018). Review of Accounting Variables Affecting Stock Price Movements. Amity Business Review, 19(1).
+Lo, K., & Lys, T. (2000). The Ohlson model: contribution to valuation theory, limitations, and empirical applications. Journal of Accounting, Auditing & Finance, 15(3), 337-367.
+Huang, Yuxuan, "Machine Learning for Stock Prediction Based on Fundamental Analysis" (2019). Electronic Thesis and Dissertation Repository. 6148. https://ir.lib.uwo.ca/etd/6148
+Rechenthin, Michael David. "Machine-learning classification techniques for the analysis and prediction of high-frequency stock direction." PhD (Doctor of Philosophy) thesis, University of Iowa, 2014. https://doi.org/10.17077/etd.fvui75i2
+Kopperundevi, S. (2015). Prediction of future stock prices exploiting machine learning techniques. http://hdl.handle.net/10603/91319
+Cavalcante, R. C., Brasileiro, R. C., Souza, V. L., Nobrega, J. P., & Oliveira, A. L. (2016). Computational intelligence and financial markets: A survey and future directions. Expert Systems with Applications, 55, 194-211.
+Ha, Y. (2017). Machine learning in quantitative finance (Doctoral dissertation, University of Glasgow). http://theses.gla.ac.uk/8558/
+Perols, J. (2011). Financial statement fraud detection: An analysis of statistical and machine learning algorithms. Auditing: A Journal of Practice & Theory, 30(2), 19-50.
+Lin, W.Y., Hu, Y.H. and Tsai, C.F., Machine learning in financial crisis prediction: A survey. IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews), 2012, 42, 421--436.
+Krollner, B., Vanstone, B. and Finnie, G., Financial time series forecasting with machine learning techniques: A survey. In Proceedings of the 18th European Symposium on Artificial Neural Networks, 2010
+Towards Explainable AI: Feature Significance and Importance for Machine Learning Models E Horel Stanford University  https://purl.stanford.edu/qv031hv7109
+Meng, Bo. "Corporate finance and machine learning." PhD (Doctor of Philosophy) thesis, University of Iowa, 2018. https://doi.org/10.17077/etd.0zru6k7p
+Milosevic, N. (2016). Equity forecast: Predicting long term stock price movement using machine learning. arXiv preprint arXiv:1603.00751.
+Wilson, R. L. & Sharda, R., 1994. Bankruptcy prediction using neural networks. Decision support systems, 11(5), pp. 545-557.
+Leung, Edward and Lohre, Harald and Mischlich, David and Shea, Yifei and Stroh, Maximilian, The Promises and Pitfalls of Machine Learning for Predicting Stock Returns (October 24, 2020). Available at SSRN: https://ssrn.com/abstract=3546725 or http://dx.doi.org/10.2139/ssrn.3546725
+Luss, R., & d’Aspremont, A. (2015). Predicting abnormal returns from news using text classification. Quantitative Finance, 15(6), 999–1012. DOI: 10.1080/14697688.2012.672762
+Balázs Csanád Csáji (2001) Approximation with Artificial Neural Networks; Faculty of Sciences; Eötvös Loránd University, Hungary
+Pinkus, Allan (January 1999). "Approximation theory of the MLP model in neural networks". Acta Numerica. 8: 143–195. Bibcode:1999AcNum...8..143P. doi:10.1017/S0962492900002919
+Fabozzi, Frank J. and Focardi, Sergio M. and Jonas, Caroline, Equity Valuation Science, Art, or Craft? (September 24, 2018). CFA Institute Research Foundation Publications, December 2017, Volume 2017, Issue 4 , Available at SSRN: https://ssrn.com/abstract=3254580 or http://dx.doi.org/10.2139/ssrn.3254580
+Hornik, K. (1991). Approximation capabilities of multilayer feedforward networks. Neural networks, 4(2), 251-257.
+Biau, G. (2012). Analysis of a random forests model. The Journal of Machine Learning Research, 13(1), 1063-1095.
+Breiman, L. (2001). Random forests. Machine learning, 45(1), 5-32.
+Denil, M., Matheson, D. & De Freitas, N.. (2014). Narrowing the Gap: Random Forests In Theory and In Practice. Proceedings of the 31st International Conference on Machine Learning, in PMLR 32(1):665-673
+Hoang, D., & Wiegratz, K. Machine Learning Methods in Finance: Recent Applications and Prospects.
+Teodorescu, M. (2017). Machine Learning methods for strategy research. Harvard Business School Research Paper Series, (18-011).
+Menezes, J. F. C. G. (2016). Adidas Group: equity valuation thesis (Doctoral dissertation).
+Man, X., & Chan, E. P. (2021). The Best Way to Select Features? Comparing MDA, LIME, and SHAP. The Journal of Financial Data Science, 3(1), 127-139.
+Arroyo, J., Corea, F., Jimenez-Diaz, G., & Recio-Garcia, J. A. (2019). Assessment of machine learning performance for decision support in venture capital investments. Ieee Access, 7, 124233-124243.
+Marwala, L. R. (2010). Forecasting the stock market index using artificial intelligence techniques (Doctoral dissertation).
+Chui, M. (2017). Artificial intelligence the next digital frontier. McKinsey and Company Global Institute, 47, 3-6.
+Shah, D., Isah, H., & Zulkernine, F. (2019). Stock market analysis: A review and taxonomy of prediction techniques. International Journal of Financial Studies, 7(2), 26.

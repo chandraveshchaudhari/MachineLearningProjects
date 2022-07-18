@@ -1,0 +1,250 @@
+@article{strader2020machine,
+  title={Machine learning stock market prediction studies: Review and research directions},
+  author={Strader, Troy J and Rozycki, John J and Root, Thomas H and Huang, Yu-Hsiang John},
+  journal={Journal of International Technology and Information Management},
+  volume={28},
+  number={4},
+  pages={63--83},
+  year={2020}
+}
+@article{li2020stock,
+  title={Stock Market Forecasting Using Deep Learning and Technical Analysis: A Systematic Review},
+  author={Li, Audeliano Wolian and Bastos, Guilherme Sousa},
+  journal={IEEE Access},
+  volume={8},
+  pages={185232--185242},
+  year={2020},
+  publisher={IEEE}
+}
+@article{nti2019systematic,
+  title={A systematic review of fundamental and technical analysis of stock market predictions},
+  author={Nti, Isaac Kofi and Adekoya, Adebayo Felix and Weyori, Benjamin Asubam},
+  journal={Artificial Intelligence Review},
+  pages={1--51},
+  year={2019},
+  publisher={Springer}
+}
+@article{shah2019stock,
+  title={Stock market analysis: A review and taxonomy of prediction techniques},
+  author={Shah, Dev and Isah, Haruna and Zulkernine, Farhana},
+  journal={International Journal of Financial Studies},
+  volume={7},
+  number={2},
+  pages={26},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{chui2017artificial,
+  title={Artificial intelligence the next digital frontier},
+  author={Chui, Michael},
+  journal={McKinsey and Company Global Institute},
+  volume={47},
+  pages={3--6},
+  year={2017}
+}
+@phdthesis{marwala2010forecasting,
+  title={Forecasting the stock market index using artificial intelligence techniques},
+  author={Marwala, Lufuno Ronald},
+  year={2010}
+}
+@article{arroyo2019assessment,
+  title={Assessment of machine learning performance for decision support in venture capital investments},
+  author={Arroyo, Javier and Corea, Francesco and Jimenez-Diaz, Guillermo and Recio-Garcia, Juan A},
+  journal={Ieee Access},
+  volume={7},
+  pages={124233--124243},
+  year={2019},
+  publisher={IEEE}
+}
+@article{man2021best,
+  title={The Best Way to Select Features? Comparing MDA, LIME, and SHAP},
+  author={Man, Xin and Chan, Ernest P},
+  journal={The Journal of Financial Data Science},
+  volume={3},
+  number={1},
+  pages={127--139},
+  year={2021},
+  publisher={Institutional Investor Journals Umbrella}
+}
+@phdthesis{menezes2016adidas,
+  title={Adidas Group: equity valuation thesis},
+  author={Menezes, Jo{\~a}o Francisco Carvalho Gomes},
+  year={2016}
+}
+@article{teodorescu2017machine,
+  title={Machine Learning methods for strategy research},
+  author={Teodorescu, Mike},
+  journal={Harvard Business School Research Paper Series},
+  number={18-011},
+  year={2017}
+}
+@article{hoangmachine,
+  title={Machine Learning Methods in Finance: Recent Applications and Prospects},
+  author={Hoang, Daniel and Wiegratz, Kevin}
+}
+@inproceedings{denil2014narrowing,
+  title={Narrowing the gap: Random forests in theory and in practice},
+  author={Denil, Misha and Matheson, David and De Freitas, Nando},
+  booktitle={International conference on machine learning},
+  pages={665--673},
+  year={2014},
+  organization={PMLR}
+}
+@article{breiman2001random,
+  title={Random forests},
+  author={Breiman, Leo},
+  journal={Machine learning},
+  volume={45},
+  number={1},
+  pages={5--32},
+  year={2001},
+  publisher={Springer}
+}
+@article{biau2012analysis,
+  title={Analysis of a random forests model},
+  author={Biau, G{\'e}rard},
+  journal={The Journal of Machine Learning Research},
+  volume={13},
+  number={1},
+  pages={1063--1095},
+  year={2012},
+  publisher={JMLR. org}
+}
+@article{hornik1991approximation,
+  title={Approximation capabilities of multilayer feedforward networks},
+  author={Hornik, Kurt},
+  journal={Neural networks},
+  volume={4},
+  number={2},
+  pages={251--257},
+  year={1991},
+  publisher={Elsevier}
+}
+@book{fabozzi2017equity,
+  title={Equity Valuation: Science, Art, or Craft?},
+  author={Fabozzi, Frank J and Focardi, Sergio M and Jonas, Caroline},
+  year={2017},
+  publisher={CFA Institute Research Foundation}
+}
+@article{platen1999introduction,
+  title={An introduction to numerical methods for stochastic differential equations},
+  author={Platen, Eckhard},
+  journal={Acta numerica},
+  volume={8},
+  number={5},
+  pages={197--246},
+  year={1999},
+  publisher={Cambridge, England; New York: Cambridge University Press, c1992-}
+}
+@article{platen1999introduction,
+  title={An introduction to numerical methods for stochastic differential equations},
+  author={Platen, Eckhard},
+  journal={Acta numerica},
+  volume={8},
+  number={5},
+  pages={197--246},
+  year={1999},
+  publisher={Cambridge, England; New York: Cambridge University Press, c1992-}
+}
+@article{csaji2001approximation,
+  title={Approximation with artificial neural networks},
+  author={Cs{\'a}ji, Bal{\'a}zs Csan{\'a}d and others},
+  journal={Faculty of Sciences, Etvs Lornd University, Hungary},
+  volume={24},
+  number={48},
+  pages={7},
+  year={2001},
+  publisher={Citeseer}
+}
+@article{luss2015predicting,
+  title={Predicting abnormal returns from news using text classification},
+  author={Luss, Ronny and d’Aspremont, Alexandre},
+  journal={Quantitative Finance},
+  volume={15},
+  number={6},
+  pages={999--1012},
+  year={2015},
+  publisher={Taylor \& Francis}
+}
+@article{leung2021promises,
+  title={The Promises and Pitfalls of Machine Learning for Predicting Stock Returns},
+  author={Leung, Edward and Lohre, Harald and Mischlich, David and Shea, Yifei and Stroh, Maximilian},
+  journal={The Journal of Financial Data Science},
+  year={2021},
+  publisher={Institutional Investor Journals Umbrella}
+}
+@article{wilson1994bankruptcy,
+  title={Bankruptcy prediction using neural networks},
+  author={Wilson, Rick L and Sharda, Ramesh},
+  journal={Decision support systems},
+  volume={11},
+  number={5},
+  pages={545--557},
+  year={1994},
+  publisher={Elsevier}
+}
+@article{milosevic2016equity,
+  title={Equity forecast: Predicting long term stock price movement using machine learning},
+  author={Milosevic, Nikola},
+  journal={arXiv preprint arXiv:1603.00751},
+  year={2016}
+}
+@article{meng2018corporate,
+  title={Corporate finance and machine learning},
+  author={Meng, Bo},
+  year={2018},
+  publisher={University of Iowa}
+}
+@book{horel2020towards,
+  title={Towards Explainable AI: Feature Significance and Importance for Machine Learning Models},
+  author={Horel, Enguerrand},
+  year={2020},
+  publisher={Stanford University}
+}
+@inproceedings{krollner2010financial,
+  title={Financial time series forecasting with machine learning techniques: a survey.},
+  author={Krollner, Bjoern and Vanstone, Bruce J and Finnie, Gavin R},
+  booktitle={ESANN},
+  year={2010}
+}
+@article{lin2011machine,
+  title={Machine learning in financial crisis prediction: a survey},
+  author={Lin, Wei-Yang and Hu, Ya-Han and Tsai, Chih-Fong},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)},
+  volume={42},
+  number={4},
+  pages={421--436},
+  year={2011},
+  publisher={IEEE}
+}
+@article{perols2011financial,
+  title={Financial statement fraud detection: An analysis of statistical and machine learning algorithms},
+  author={Perols, Johan},
+  journal={Auditing: A Journal of Practice \& Theory},
+  volume={30},
+  number={2},
+  pages={19--50},
+  year={2011},
+  publisher={American Accounting Association}
+}
+@phdthesis{ha2017machine,
+  title={Machine learning in quantitative finance},
+  author={Ha, Youngmin},
+  year={2017},
+  school={University of Glasgow}
+}
+@article{cavalcante2016computational,
+  title={Computational intelligence and financial markets: A survey and future directions},
+  author={Cavalcante, Rodolfo C and Brasileiro, Rodrigo C and Souza, Victor LF and Nobrega, Jarley P and Oliveira, Adriano LI},
+  journal={Expert Systems with Applications},
+  volume={55},
+  pages={194--211},
+  year={2016},
+  publisher={Elsevier}
+}
+@article{kopperundevi2015prediction,
+  title={Prediction of future stock prices exploiting machine learning techniques},
+  author={Kopperundevi, S},
+  year={2015},
+  publisher={Chennai}
+}

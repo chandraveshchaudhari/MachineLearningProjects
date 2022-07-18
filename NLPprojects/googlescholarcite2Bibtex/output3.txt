@@ -1,0 +1,380 @@
+@inproceedings{raoui2017deep,
+  title={Deep Learning for automatic sale receipt understanding},
+  author={Raoui-Outach, Rizlene and Million-Rousseau, Cecile and Benoit, Alexandre and Lambert, Patrick},
+  booktitle={2017 Seventh International Conference on Image Processing Theory, Tools and Applications (IPTA)},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
+}
+@inproceedings{harley2015evaluation,
+  title={Evaluation of deep convolutional nets for document image classification and retrieval},
+  author={Harley, Adam W and Ufkes, Alex and Derpanis, Konstantinos G},
+  booktitle={2015 13th International Conference on Document Analysis and Recognition (ICDAR)},
+  pages={991--995},
+  year={2015},
+  organization={IEEE}
+}
+@article{yue2020automated,
+  title={Automated receipt image identification cropping and parsing},
+  author={Yue, Alex},
+  journal={Princeton. edu},
+  year={2020}
+}
+@inproceedings{zhang2016multi,
+  title={Multi-oriented text detection with fully convolutional networks},
+  author={Zhang, Zheng and Zhang, Chengquan and Shen, Wei and Yao, Cong and Liu, Wenyu and Bai, Xiang},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={4159--4167},
+  year={2016}
+}
+@article{nayak2019chemical,
+  title={A chemical-reaction-optimization-based neuro-fuzzy hybrid network for stock closing price prediction},
+  author={Nayak, Sarat Chandra and Misra, Bijan Bihari},
+  journal={Financial Innovation},
+  volume={5},
+  number={1},
+  pages={1--34},
+  year={2019},
+  publisher={Springer}
+}
+@article{ye2017internet,
+  title={Internet big data and capital markets: a literature review},
+  author={Ye, Minjian and Li, Guangzhong},
+  journal={Financial Innovation},
+  volume={3},
+  number={1},
+  pages={1--18},
+  year={2017},
+  publisher={SpringerOpen}
+}
+@misc{rekhi2012finding,
+  title={Finding Undervalued Stocks with Machine Learning},
+  author={Rekhi, Ramneet Singh and Ward, Tucker L and Wei, Huan},
+  year={2012},
+  publisher={Stanford. Stanford. Retrieved from http://cs229. stanford. edu/proj2014~…}
+}
+@article{hu2020evaluation,
+  title={Evaluation of company investment value based on machine learning},
+  author={Hu, Junfeng and Li, Xiaosa and Xu, Yuru and Wu, Shaowu and Zheng, Bin},
+  journal={arXiv preprint arXiv:2010.01996},
+  year={2020}
+}
+@article{sawwalakhe2018analysis,
+  title={Analysis of Various Machine Learning algorithms for Stock Value Prediction},
+  author={Sawwalakhe, Abhit Sudhakar and Kulkarni, Sukhada Shrirang},
+  year={2018}
+}
+@article{ndikum2020machine,
+  title={Machine learning algorithms for financial asset price forecasting},
+  author={Ndikum, Philip},
+  journal={arXiv preprint arXiv:2004.01504},
+  year={2020}
+}
+@book{damodaran2007valuation,
+  title={Valuation approaches and metrics: a survey of the theory and evidence},
+  author={Damodaran, Aswath},
+  year={2007},
+  publisher={Now Publishers Inc}
+}
+@article{chen2020deep,
+  title={Deep learning in asset pricing},
+  author={Chen, Luyang and Pelger, Markus and Zhu, Jason},
+  journal={Available at SSRN 3350138},
+  year={2020}
+}
+@article{ruf2020neural,
+  title={Neural networks for option pricing and hedging: a literature review},
+  author={Ruf, Johannes and Wang, Weiguan},
+  journal={Journal of Computational Finance, Forthcoming},
+  year={2020}
+}
+@article{gu2020empirical,
+  title={Empirical asset pricing via machine learning},
+  author={Gu, Shihao and Kelly, Bryan and Xiu, Dacheng},
+  journal={The Review of Financial Studies},
+  volume={33},
+  number={5},
+  pages={2223--2273},
+  year={2020},
+  publisher={Oxford University Press}
+}
+@article{gronagerapplying,
+  title={Applying Machine Learning in Equity Trading},
+  author={Gr{\o}nager, Christian S and Vestergaard, Karl JV and Richter, Martin C}
+}
+@article{jazbec2020impact,
+  title={On the impact of publicly available news and information transfer to financial markets},
+  author={Jazbec, Metod and P{\'a}sztor, Barna and Faltings, Felix and Antulov-Fantulin, Nino and Kolm, Petter N},
+  journal={arXiv preprint arXiv:2010.12002},
+  year={2020}
+}
+@article{cheng2019investigation,
+  title={An Investigation on Factors Affecting Stock Valuation Using Text Mining for Automated Trading},
+  author={Cheng, Xusen and Huang, Danya and Chen, Jin and Meng, Xiangsong and Li, Chengyao},
+  journal={Sustainability},
+  volume={11},
+  number={7},
+  pages={1938},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{bahrammirzaee2010comparative,
+  title={A comparative survey of artificial intelligence applications in finance: artificial neural networks, expert system and hybrid intelligent systems},
+  author={Bahrammirzaee, Arash},
+  journal={Neural Computing and Applications},
+  volume={19},
+  number={8},
+  pages={1165--1195},
+  year={2010},
+  publisher={Springer}
+}
+@article{alam2016analysis,
+  title={Analysis on factors that affect stock prices: A study on listed cement companies at Dhaka stock exchange},
+  author={Alam, Shafiqul and Miah, Md Rubel and Karim, Md Abdul},
+  journal={Research Journal of Finance and Accounting},
+  volume={7},
+  number={18},
+  pages={93--113},
+  year={2016}
+}
+@article{phansawadhi2013equity,
+  title={Equity valuation approach based on accounting variables},
+  author={Phansawadhi, Thanakornn},
+  journal={Nature},
+  volume={1},
+  number={3},
+  pages={41--48},
+  year={2013}
+}
+@article{cheung1999macroeconomic,
+  title={Macroeconomic determinants of long-term stock market comovements among major EMS countries},
+  author={Cheung, Yin-Wong and Lai, Kon S},
+  journal={Applied Financial Economics},
+  volume={9},
+  number={1},
+  pages={73--85},
+  year={1999},
+  publisher={Taylor \& Francis}
+}
+@article{vychytilova2019macroeconomic,
+  title={Macroeconomic factors explaining stock volatility: multi-country empirical evidence from the auto industry},
+  author={Vychytilov{\'a}, Jana and Pavelkov{\'a}, Drahom{\'\i}ra and Pham, Ha and Urb{\'a}nek, Tom{\'a}{\v{s}}},
+  journal={Economic research-Ekonomska istra{\v{z}}ivanja},
+  volume={32},
+  number={1},
+  pages={3327--3341},
+  year={2019},
+  publisher={Taylor and Francis Group i Sveu{\v{c}}ili{\v{s}}te Jurja Dobrile u Puli, Fakultet~…}
+}
+@article{nti2019systematic,
+  title={A systematic review of fundamental and technical analysis of stock market predictions},
+  author={Nti, Isaac Kofi and Adekoya, Adebayo Felix and Weyori, Benjamin Asubam},
+  journal={Artificial Intelligence Review},
+  pages={1--51},
+  year={2019},
+  publisher={Springer}
+}
+@article{shah2019stock,
+  title={Stock market analysis: A review and taxonomy of prediction techniques},
+  author={Shah, Dev and Isah, Haruna and Zulkernine, Farhana},
+  journal={International Journal of Financial Studies},
+  volume={7},
+  number={2},
+  pages={26},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+@article{humpe2009can,
+  title={Can macroeconomic variables explain long-term stock market movements? A comparison of the US and Japan},
+  author={Humpe, Andreas and Macmillan, Peter},
+  journal={Applied financial economics},
+  volume={19},
+  number={2},
+  pages={111--119},
+  year={2009},
+  publisher={Taylor \& Francis}
+}
+@article{chandrashekar2018macroeconomic,
+  title={Macroeconomic variables and stock prices in emerging economies: A panel analysis.},
+  author={CHANDRASHEKAR, Raghutla and Sakthivel, P and Sampath, T and CHITTEDI, Krishna Reddy},
+  journal={Theoretical \& Applied Economics},
+  volume={25},
+  number={3},
+  year={2018}
+}
+@article{pramod2012impact,
+  title={The impact of macroeconomic fundamentals on stock prices revisited: An evidence from Indian data},
+  author={Pramod Kumar, NAIK and Puja, Padhi},
+  year={2012}
+}
+@article{lo2000ohlson,
+  title={The Ohlson model: contribution to valuation theory, limitations, and empirical applications},
+  author={Lo, Kin and Lys, Thomas},
+  journal={Journal of Accounting, Auditing \& Finance},
+  volume={15},
+  number={3},
+  pages={337--367},
+  year={2000},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+@article{huang2019machine,
+  title={Machine learning for stock prediction based on fundamental analysis},
+  author={Huang, Yuxuan},
+  year={2019}
+}
+@article{rechenthin2014machine,
+  title={Machine-learning classification techniques for the analysis and prediction of high-frequency stock direction},
+  author={Rechenthin, Michael David},
+  year={2014},
+  publisher={University of Iowa}
+}
+@phdthesis{ha2017machine,
+  title={Machine learning in quantitative finance},
+  author={Ha, Youngmin},
+  year={2017},
+  school={University of Glasgow}
+}
+@article{perols2011financial,
+  title={Financial statement fraud detection: An analysis of statistical and machine learning algorithms},
+  author={Perols, Johan},
+  journal={Auditing: A Journal of Practice \& Theory},
+  volume={30},
+  number={2},
+  pages={19--50},
+  year={2011},
+  publisher={American Accounting Association}
+}
+@article{lin2011machine,
+  title={Machine learning in financial crisis prediction: a survey},
+  author={Lin, Wei-Yang and Hu, Ya-Han and Tsai, Chih-Fong},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)},
+  volume={42},
+  number={4},
+  pages={421--436},
+  year={2011},
+  publisher={IEEE}
+}
+@inproceedings{krollner2010financial,
+  title={Financial time series forecasting with machine learning techniques: a survey.},
+  author={Krollner, Bjoern and Vanstone, Bruce J and Finnie, Gavin R},
+  booktitle={ESANN},
+  year={2010}
+}
+@article{meng2018corporate,
+  title={Corporate finance and machine learning},
+  author={Meng, Bo},
+  year={2018},
+  publisher={University of Iowa}
+}
+@article{milosevic2016equity,
+  title={Equity forecast: Predicting long term stock price movement using machine learning},
+  author={Milosevic, Nikola},
+  journal={arXiv preprint arXiv:1603.00751},
+  year={2016}
+}
+@article{luss2015predicting,
+  title={Predicting abnormal returns from news using text classification},
+  author={Luss, Ronny and d’Aspremont, Alexandre},
+  journal={Quantitative Finance},
+  volume={15},
+  number={6},
+  pages={999--1012},
+  year={2015},
+  publisher={Taylor \& Francis}
+}
+@article{csaji2001approximation,
+  title={Approximation with artificial neural networks},
+  author={Cs{\'a}ji, Bal{\'a}zs Csan{\'a}d and others},
+  journal={Faculty of Sciences, Etvs Lornd University, Hungary},
+  volume={24},
+  number={48},
+  pages={7},
+  year={2001},
+  publisher={Citeseer}
+}
+@article{platen1999introduction,
+  title={An introduction to numerical methods for stochastic differential equations},
+  author={Platen, Eckhard},
+  journal={Acta numerica},
+  volume={8},
+  number={5},
+  pages={197--246},
+  year={1999},
+  publisher={Cambridge, England; New York: Cambridge University Press, c1992-}
+}
+@article{hornik1991approximation,
+  title={Approximation capabilities of multilayer feedforward networks},
+  author={Hornik, Kurt},
+  journal={Neural networks},
+  volume={4},
+  number={2},
+  pages={251--257},
+  year={1991},
+  publisher={Elsevier}
+}
+@article{biau2012analysis,
+  title={Analysis of a random forests model},
+  author={Biau, G{\'e}rard},
+  journal={The Journal of Machine Learning Research},
+  volume={13},
+  number={1},
+  pages={1063--1095},
+  year={2012},
+  publisher={JMLR. org}
+}
+@article{breiman2001random,
+  title={Random forests},
+  author={Breiman, Leo},
+  journal={Machine learning},
+  volume={45},
+  number={1},
+  pages={5--32},
+  year={2001},
+  publisher={Springer}
+}
+@inproceedings{denil2014narrowing,
+  title={Narrowing the gap: Random forests in theory and in practice},
+  author={Denil, Misha and Matheson, David and De Freitas, Nando},
+  booktitle={International conference on machine learning},
+  pages={665--673},
+  year={2014},
+  organization={PMLR}
+}
+@article{hoangmachine,
+  title={Machine Learning Methods in Finance: Recent Applications and Prospects},
+  author={Hoang, Daniel and Wiegratz, Kevin}
+}
+@article{teodorescu2017machine,
+  title={Machine Learning methods for strategy research},
+  author={Teodorescu, Mike},
+  journal={Harvard Business School Research Paper Series},
+  number={18-011},
+  year={2017}
+}
+@phdthesis{menezes2016adidas,
+  title={Adidas Group: equity valuation thesis},
+  author={Menezes, Jo{\~a}o Francisco Carvalho Gomes},
+  year={2016}
+}
+@article{arroyo2019assessment,
+  title={Assessment of machine learning performance for decision support in venture capital investments},
+  author={Arroyo, Javier and Corea, Francesco and Jimenez-Diaz, Guillermo and Recio-Garcia, Juan A},
+  journal={Ieee Access},
+  volume={7},
+  pages={124233--124243},
+  year={2019},
+  publisher={IEEE}
+}
+@phdthesis{marwala2010forecasting,
+  title={Forecasting the stock market index using artificial intelligence techniques},
+  author={Marwala, Lufuno Ronald},
+  year={2010}
+}
+@article{chui2017artificial,
+  title={Artificial intelligence the next digital frontier},
+  author={Chui, Michael},
+  journal={McKinsey and Company Global Institute},
+  volume={47},
+  pages={3--6},
+  year={2017}
+}
